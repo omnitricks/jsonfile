@@ -1,0 +1,23 @@
+{
+"songs" : [
+{
+"title" : "Just the Way you are",
+"year" : 2010,
+"artist" : "Bruno Mars",
+"genre" : ["Pop"]
+},
+
+{
+"title" : "Believer",
+"year" : 2017,
+"artist" : "Imagine Dragons",
+"genre" : ["Pop", "Rock"]
+},
+
+{
+"title" : "Heartbeat",
+"year" : 2015,
+"artist" : "Kelly Clarkson",
+"genre" : ["Pop", "Electropop"]
+}
+]}
