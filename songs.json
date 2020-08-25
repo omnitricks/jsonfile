@@ -19,5 +19,55 @@
 "year" : 2015,
 "artist" : "Kelly Clarkson",
 "genre" : ["Pop", "Electropop"]
+},
+
+{
+"title" : "Legend",
+"year" : 2017,
+"artist" : "The Score",
+"genre" : ["Alternative/Indie"]
+},
+
+{
+"title" : "Natural",
+"year" : 2018,
+"artist" : "Imagine Dragons",
+"genre" : ["Alternative/Indie"]
+},
+
+{
+"title" : "Be Alright",
+"year" : 2019,
+"artist" : "Dean Lewis",
+"genre" : ["Alternative/Indie"]
+},
+
+{
+"title" : "Burn the House Down",
+"year" : 2017,
+"artist" : "AJR",
+"genre" : ["Alternative/Indie", "Electropop", "Pop"]
+},
+
+{
+"title" : "Thunder",
+"year" : 2017,
+"artist" : "Imagine Dragons",
+"genre" : ["Synth-pop", "Pop"]
+},
+
+{
+"title" : "Centuries",
+"year" : 2015,
+"artist" : "Fall Out Boy",
+"genre" : ["Alternative/Indie"]
+},
+
+{
+"title" : "For the Glory",
+"year" : 2017,
+"artist" : "All Good Things",
+"genre" : ["Rock"]
 }
+
 ]}
